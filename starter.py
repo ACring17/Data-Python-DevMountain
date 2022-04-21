@@ -21,6 +21,11 @@ print(first_name)
 #  If it is not, print "Coding has it's challenges."
 loves_code = True
 
+if loves_code == True:
+    print('I love to code!')
+else:
+    print("Coding has it's challenges.")
+
 # PROBLEM 6
 # Create an array called `colors` and set it equal to a list of at least five colors.
 
